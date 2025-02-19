@@ -1,0 +1,12 @@
+a=input()
+b=input()
+c=int(input())
+d=input()
+a2=f"{a}"
+b2=f"{b}"
+c2=f"{c}"
+d2=f"{d}"
+print(a2)
+print(b2)
+print(c2)
+print(d2)
